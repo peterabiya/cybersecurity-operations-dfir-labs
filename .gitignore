@@ -1,0 +1,14 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Raw mentorship/source material is intentionally not committed
+*.pcap
+*.pcapng
+*.img
+*.raw
+*.mem
+*.dmp
+*.xlsx
